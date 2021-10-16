@@ -1,0 +1,15 @@
+	* Variables
+    Son elementos en los que podemos guardar datos. Los identificamos con un nombre para poder usarlos luego llamándolos por ese nombre. 
+
+	* Strings
+    Es un tipo de dato que consiste en uno o más caracteres plasmados sucesivamente como una palabra o una frase.  
+
+	* Funciones (argumentos, `return`)
+    Es un elemento que puede contener una serie ordenes a ejecutar por el sistema, y puede devolvernos un resultado por medio del comando "return", con el cual, la función termina de ejecutarse. Una función puede ser guardada e identificada con un nombre para ser invocada luego, e incluso podemos suministrarle datos o argumentos para que sean incluidos en el código y procesados por la función.   
+
+	* Declaraciones `if`
+    Son elementos que nos permiten solicitarle al sistema que ejecute las órdenes que dispongamos en la medida que se cumplan o no determinadas condiciones.
+
+	* Valores booleanos (`true`, `false`)
+    Es un tipo de dato que contempla solo dos valores posibles, verdadero o falso.
+
