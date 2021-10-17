@@ -1,0 +1,5 @@
+* `for`
+Es un recurso que nos permite ejecutar un mismo código en reiteradas oportunidades, para evitar transcribir un código repetitivamente.
+
+* `&&`, `||`, `!`
+Nos permite combinar diferentes expresiones que arrojan resultados verdadero o falso, de modo tal que el resultado contemple el resultado de cada una de ellas. El operador && nos va a dar una respuesta verdadera si las expresiones combinadas son verdaderas; el comando || nos va a dar una respuesta verdadera si alguna de las expresiones combinadas es verdadera; y el comando ! va a arrojarnos el resultado contrario al que arroje la expresión.
