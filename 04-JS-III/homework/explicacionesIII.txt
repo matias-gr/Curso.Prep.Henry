@@ -1,0 +1,2 @@
+* Arrays
+Son listas de elementos que pueden contener datos de diferente tipo.
