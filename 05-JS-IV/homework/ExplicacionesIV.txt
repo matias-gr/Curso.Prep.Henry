@@ -1,0 +1,14 @@
+* Objetos
+Son elementos capaces de incluir una colección de propiedades, y una propiedad es una asociación entre un nombre o clave y un valor (key value).
+
+* Propiedades
+Son elementos compuestos por un nombre o clave y un valor. El nombre o clave funciona a modo de índice para invocar el valor, pero a diferencia de lo que ocurre con los arreglos, cuyo índice es numérico por defecto, en las propiedades, puede escogerse la denominación.
+
+* Métodos
+Son propiedades de objetos cuyo valor consiste en una función.
+
+* Bucle `for…in`
+Se trata de un tipo de bucle similar al que utilizamos para otro tipo de variables, pero pensado para objetos, los cuales presentan la particularidad de que los valores que contiene no se encuentran identificados por medio de números sucesivos sino a través de cualquier tipo de denominación.
+
+* Notación de puntos vs notación de corchetes
+Son diferentes maneras de invocar propiedades de un objeto, la primera de ellas posee una redacción más sencilla, pero su funcionamiento es literal, mientras que la notación por corchetes nos va a permitir invocar una propiedad remitiéndonos, por ejemplo, a una variable cuyo valor coincida con el nombre de la propiedad a invocar.
