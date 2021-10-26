@@ -1,0 +1,5 @@
+* `prototype`
+Todos los objetos poseen, por defecto, una referencia a otro objeto denominado prototype. Se trata de un objeto que posee propiedades y métodos preestablecidos.
+
+* _Constructors_ (de Clases)
+Es un recurso que nos permite crear plantillas que podremos utilizar luego para crear objetos con propiedades (sus nombres, pudiendo incluirse valores) y/o métodos preestablecidos. Los constructores permiten reducir el tiempo y los recursos necesarios para crear múltiples objetos que compartan propiedades y/o métodos.
