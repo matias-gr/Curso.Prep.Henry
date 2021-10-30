@@ -1,0 +1,2 @@
+*funciones Callback
+Es un recurso que permite invocar funciones como argumentos de otras funciones.
